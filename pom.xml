@@ -52,5 +52,18 @@
 		<artifactId>spring-aspects</artifactId>
 		<version>4.3.8.RELEASE</version>
 	</dependency>
+<!-- 	<dependency>
+		<groupId>cn.greeston</groupId>
+		<artifactId>greeston-util</artifactId>
+		<version>1.0.0</version>
+	</dependency> -->
   </dependencies>
+  
+ <!--  <repositories>
+     <repository>
+        <id>greeston</id>
+		<url>https://github.com/GitHubJiang/greeston-repo/raw/master/releases</url>
+     </repository>
+ </repositories> -->
+
 </project>
